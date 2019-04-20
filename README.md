@@ -18,7 +18,7 @@ Second fputs function adds something in the same line of time and date.
 
 Future plans:
 
-I intend to use the difference of time function called difftime to plot the data.
+I intend to use the difference of time function called difftime to plot the data. The variable is temporal distribution of attention demanding. Maybe calculate average per 10 minutes, per hour or other arbitrary period of time.
 
 I will plot the data with a histogram graphic too. The x and y axis are frequency of interruptions per hour.
 
