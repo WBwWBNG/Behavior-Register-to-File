@@ -15,7 +15,7 @@ The file written to is named "mhaic". Changing the name of the file is needed.
 
 Second fputs function adds something in the same line of time and date.
 
-The date language for locale is brazilian portugese.
+The date language for locale is brazilian portuguese.
 
 Future plans:
 
